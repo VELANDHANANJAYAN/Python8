@@ -1,4 +1,4 @@
-# 19CS301Module8
+# 19CS301-Module8
 EXPTNO.8(a) Hackerrank Challenges
 
 ### Aim:
